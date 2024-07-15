@@ -5,7 +5,7 @@
 ### Achievement:
 By the end of these activities, you will:
 
-- Know how to declare variables using var, let, and const.
+- Know how to declare variables using `var`, let, and const.
 
 - Understand the different data types in JavaScript.
 
