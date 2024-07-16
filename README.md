@@ -1,7 +1,6 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="200">
-  <h1 style="margin-top: 10px;">JavaScript 30 Day Challenge</h1>
-</div>
+
+  <img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="100">
+ 
 
 
 # JavaScript 30 Day Challenge 
