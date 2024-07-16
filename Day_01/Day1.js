@@ -1,6 +1,5 @@
 // Day 1: Variable and Data Types
 
-
 // Tasks/Activities
 
 
@@ -72,3 +71,4 @@ const c = 50;
 console.log(c);
 c = 60;
 console.log(c);
+
