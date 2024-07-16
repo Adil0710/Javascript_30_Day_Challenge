@@ -1,4 +1,4 @@
-## Day 1 : Variables and Datatypes.  [(click here)](Day1.js)
+## Day 1 : Variables and Datatypes. 🚀  [(click here)](Day1.js)
 
 ### Achievement 🏆
 By the end of these activities, you will:
