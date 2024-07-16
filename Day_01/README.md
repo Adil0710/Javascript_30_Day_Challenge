@@ -1,6 +1,6 @@
 ## Day 1 : Variables and Datatypes.  [(click here)](Day1.js)
 
-### Achievement:
+### Achievement 🏆
 By the end of these activities, you will:
 
 - Know how to declare variables using `var`, `let`, and `const`.
