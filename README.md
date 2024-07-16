@@ -7,11 +7,11 @@
 
 
 
-| Day  | Topic             | Links |
-|------|-------------------|-------|
-| 01   | Variables and Datatypes.| [(Day 1 here)](Day_01) |
-| 02   | Data Types        |
-| 03   | Functions         |
+| Day  | Topic                   | Links                |
+|------|-------------------------|----------------------|
+| 01   | Variables and Datatypes.| [Day 1 here](Day_01) |
+| 02   | Data Types              | [Day 2 here](Day_02) | 
+| 03   | Functions               | [Day 3 here](Day_03) |
 
 
 
