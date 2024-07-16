@@ -1,4 +1,6 @@
-  <img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="100">
+  <div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="200">
+  </div>
 
 # JavaScript 30 Day Challenge 
 
