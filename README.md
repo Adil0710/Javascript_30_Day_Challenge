@@ -12,6 +12,11 @@ Welcome to the 30 Days JavaScript Challenge by [Hitesh Choudhary](https://github
 
 <br />
 
+## Challenge Overview 👨🏻‍💻
+Each day, I'll be tackling a new JavaScript challenge or project to improve my coding abilities and deepen my understanding of JavaScript.
+
+<br />
+
 ## Progress ⚡
 
 | Day  | Topic                   | Links                |
