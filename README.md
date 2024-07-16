@@ -7,9 +7,9 @@
 
 
 
-| Day  | Topic             | 
-|------|-------------------|
-| 01   | Variables and Datatypes. [(Chck it out here)](Day_01) |
+| Day  | Topic             | Links |
+|------|-------------------|-------|
+| 01   | Variables and Datatypes.| [(Go to Day 1)](Day_01) |
 | 02   | Data Types        |
 | 03   | Functions         |
 
