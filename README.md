@@ -7,6 +7,10 @@
 
 <br />
 
+## Introduction
+Welcome to the 30 Days JavaScript Challenge by [Hitesh Choudhary](https://github.com/hiteshchoudhary) AKA Chai Aur Code! This repository documents my journey through daily JavaScript challenges and projects. Join me as I enhance my coding skills and build practical projects.
+
+
 | Day  | Topic                   | Links                |
 |------|-------------------------|----------------------|
 | 01   | Variables and Datatypes.| [Day 1 here](Day_01) |
@@ -18,4 +22,4 @@
 
 <br />
 
-# Happy Coding ! 🎯
+## Happy Coding ! 🎯
