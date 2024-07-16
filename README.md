@@ -7,13 +7,11 @@
 
 
 
-| Day | Topic             | Description                  |
-|-----|-------------------|------------------------------|
-| 1   | Introduction      | Overview of the challenge    |
-| 2   | Variables         | Understanding variables      |
-| 3   | Data Types        | Exploring different data types|
-| 4   | Functions         | Writing and using functions  |
-| 5   | Objects           | Working with objects         |
+| Day  | Topic             | 
+|------|-------------------|
+| 01   | Variables and Datatypes. |
+| 02   | Data Types        |
+| 03   | Functions         |
 
 
 
