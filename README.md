@@ -30,4 +30,4 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 
 <br />
 
-## Happy Coding ! 🎯
+## Special Thanks to [Hitesh Choudhary](https://github.com/hiteshchoudhary) AKA [Chai Aur Code!](https://www.youtube.com/@chaiaurcode) and Happy Coding ! 🎯
