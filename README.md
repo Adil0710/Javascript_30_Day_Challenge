@@ -1,5 +1,8 @@
-# JavaScript 30 Day Challenge !
-<img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="50">
+<div style="display: flex; align-items: center;">
+  <h1 style="margin: 0;">JavaScript 30 Day Challenge !</h1>
+  <img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="50" style="margin-left: 10px;">
+</div>
+
 
 
 
