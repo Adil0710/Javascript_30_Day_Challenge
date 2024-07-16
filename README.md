@@ -1,11 +1,6 @@
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <h1 style="margin: 0;">JavaScript 30 Day Challenge</h1>
-  <img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="10" style="margin-left: 10px;">
-</div>
+  <img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="100">
 
-
-
-
+# JavaScript 30 Day Challenge 
 
 ## Day 1 : Variables and Datatypes.  [(click here)](Day1.js)
 
