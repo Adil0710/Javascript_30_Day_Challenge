@@ -5,15 +5,12 @@
 
 # JavaScript 30 Day Challenge 
 
-## Day 1 : Variables and Datatypes.  [(click here)](Day1.js)
+# JavaScript 30 Day Challenge
 
-### Achievement:
-By the end of these activities, you will:
-
-- Know how to declare variables using `var`, `let`, and `const`.
-
-- Understand the different data types in JavaScript.
-
-- Be able to use the `typeof` operator to identify the data type of a variable.
-
-- Understand the concept of variable reassignment and the immutability of `const`.
+| Day | Topic             | Description                  |
+|-----|-------------------|------------------------------|
+| 1   | Introduction      | Overview of the challenge    |
+| 2   | Variables         | Understanding variables      |
+| 3   | Data Types        | Exploring different data types|
+| 4   | Functions         | Writing and using functions  |
+| 5   | Objects           | Working with objects         |
