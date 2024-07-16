@@ -3,12 +3,12 @@
 ### Achievement 🏆
 By the end of these activities, You will:
 
-• Understand and use arithmetic operators to perform basic calculations.
+- Understand and use arithmetic operators to perform basic calculations.
 
-• Use assignment operators to modify variable values.
+- Use assignment operators to modify variable values.
 
-• Compare values using comparison operators.
+- Compare values using comparison operators.
 
-• Combine conditions using logical operators.
+- Combine conditions using logical operators.
 
-• Use the ternary operator for concise conditional expressions.
+- Use the ternary operator for concise conditional expressions.
