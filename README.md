@@ -1,4 +1,6 @@
-# JavaScript 30 Day Challenge ![image](https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917)
+# JavaScript 30 Day Challenge !
+<img src="https://github.com/user-attachments/assets/069be996-a817-4178-8a99-1f5ad5502917" alt="JavaScript 30 Day Challenge" width="50">
+
 
 
 ## Day 1 : Variables and Datatypes.  [(click here)](Day1.js)
