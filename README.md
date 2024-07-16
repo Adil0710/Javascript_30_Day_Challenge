@@ -3,9 +3,9 @@
  
 
 
-# JavaScript 30 Day Challenge 
+# JavaScript 30 Day Challenge ! 🔥
 
-# JavaScript 30 Day Challenge
+
 
 | Day | Topic             | Description                  |
 |-----|-------------------|------------------------------|
@@ -14,3 +14,9 @@
 | 3   | Data Types        | Exploring different data types|
 | 4   | Functions         | Writing and using functions  |
 | 5   | Objects           | Working with objects         |
+
+
+
+
+
+# Happy Coding ! 🎯
