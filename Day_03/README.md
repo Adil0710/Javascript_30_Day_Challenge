@@ -1,4 +1,4 @@
-## Day 2 : Variables and Datatypes. 🚀  [(click here)](Day3.js)
+## Day 3 : Control Structures. 🚀  [(click here)](Day3.js)
 
 ### Achievement 🏆
 By the end of these activities, You will:
