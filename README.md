@@ -25,6 +25,7 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 | 02   | Operators.              | [Day 2 here](Day_02) | 
 | 03   | Control Structures.     | [Day 3 here](Day_03) |
 | 04   | Loops.                  | [Day 4 here](Day_04) |
+| 05   | Functions.              | [Day 5 here](Day_05) |
 
 
 
