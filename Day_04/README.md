@@ -11,4 +11,4 @@ By the end of these activities, You will:
 
 - Implement nested loops to solve more complex problems.
 
-- Use loop control statements (`break` and `continue`) to control the flow of loops.
+- Use loop control statements ( `break` and `continue` ) to control the flow of loops.
