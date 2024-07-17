@@ -1,4 +1,4 @@
-## Day 2 : Variables and Datatypes. 🚀  [(click here)](Day2.js)
+## Day 2 : Operators. 🚀  [(click here)](Day2.js)
 
 ### Achievement 🏆
 By the end of these activities, You will:
