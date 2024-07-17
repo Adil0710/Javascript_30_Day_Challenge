@@ -1,0 +1,14 @@
+## Day 4 : Loops. 🚀  [(click here)](Day4.js)
+
+### Achievement 🏆
+By the end of these activities, You will:
+
+- Understand and use for loops to iterate over a sequence of number.
+
+- Utilize while loops for iteration based on a condition.
+
+- Apply do...while loops to ensure the loop body is executed at least once.
+
+- Implement nested loops to solve more complex problems.
+
+- Use loop control statements (`break` and `continue`) to control the flow of loops.
