@@ -22,8 +22,9 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 | Day  | Topic                   | Links                |
 |------|-------------------------|----------------------|
 | 01   | Variables and Datatypes.| [Day 1 here](Day_01) |
-| 02   | Data Types              | [Day 2 here](Day_02) | 
-| 03   | Functions               | [Day 3 here](Day_03) |
+| 02   | Operators.              | [Day 2 here](Day_02) | 
+| 03   | Control Structures.     | [Day 3 here](Day_03) |
+| 04   | Loops.                  | [Day 4 here](Day_04) |
 
 
 
