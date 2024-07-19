@@ -113,3 +113,36 @@ console.log(greet("Suraj"))
 // Activity 5: Higher-Order Functions
 
 // Task 9: Write a higher-order function that takes a function and a number, and calls the function that many times.
+
+function Horder(funct, num){
+    for (let cl = 0; cl < num; cl++){
+        Lorder()
+    }
+}
+
+function Lorder(){
+    console.log("hello world")
+}
+
+Horder(Lorder, 5)
+
+
+
+// Task 10: Write a higher-order function that takes two function and a value, applies the first function to the value, and then applies the second function to the result.
+
+function higherOrder(fun1, fun2, number){
+    result1 = fun1(number)
+    result2 = fun2(result1)
+    return result2;
+}
+
+function fun1(x){
+    return x * 2
+}
+
+
+function fun2(x){
+    return x * x
+}
+
+console.log(higherOrder(fun1, fun2, 4))
