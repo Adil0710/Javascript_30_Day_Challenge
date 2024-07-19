@@ -10,12 +10,14 @@
 var a = 10;
 console.log(a);
 
+console.log("\n *************** Task 1 Ends Here ✅ *************** \n")
 
 // Task 2: Declare a variable using let, assign it to a string, and log the value to the console. 
 
 let Name = "Adil";
 console.log(Name);
 
+console.log("\n *************** Task 2 Ends Here ✅ *************** \n")
 
 //Acivity 2: Constant Declaration
 
@@ -23,6 +25,8 @@ console.log(Name);
 
 const bool = true;
 console.log(bool)
+
+console.log("\n *************** Task 3 Ends Here ✅ *************** \n")
 
 //Acivity 3: Data Types
 
@@ -52,6 +56,7 @@ console.log(typeof(obj));
 var arr = [10, 20, 30, 40, 50];
 console.log(typeof(arr));
 
+console.log("\n *************** Task 4 Ends Here ✅ *************** \n")
 
 // Activity 4: Reassigning Variables
 
@@ -62,13 +67,15 @@ console.log(b);
 b = 20;
 console.log(b)
 
+console.log("\n *************** Task 5 Ends Here ✅ *************** \n")
 
 // Activity 5: Understanding const
 
-// Task 5: Try reassigning a variable declared with const and observe the error.
+// Task 6: Try reassigning a variable declared with const and observe the error.
 
 const c = 50;
 console.log(c);
 c = 60;
 console.log(c);
 
+console.log("\n *************** Task 6 Ends Here ✅ *************** \n")

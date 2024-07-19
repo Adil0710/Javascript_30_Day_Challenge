@@ -16,6 +16,7 @@ function oddEven () {
 }
 oddEven();
 
+console.log("\n *************** Task 1 Ends Here ✅ *************** \n")
 
 // Task 2: Write a function to calculate the square of a number and return the result.
 
@@ -25,6 +26,7 @@ function square() {
 }
 console.log(square());
 
+console.log("\n *************** Task 2 Ends Here ✅ *************** \n")
 
 // Activity 2: Function Expression
 
@@ -42,6 +44,7 @@ let maxTwoNum = function () {
 }
 maxTwoNum()
 
+console.log("\n *************** Task 3 Ends Here ✅ *************** \n")
 
 // Task 4: Write a function expression to concatenate two strings and return the result.
 
@@ -53,6 +56,7 @@ let concateString = function () {
 }
 console.log(concateString())
 
+console.log("\n *************** Task 4 Ends Here ✅ *************** \n")
 
 // Activity 3: Arrow Functions
 
@@ -66,6 +70,7 @@ let sumTwoNum = () => {
 }
 console.log(sumTwoNum())
 
+console.log("\n *************** Task 5 Ends Here ✅ *************** \n")
 
 // Task 6: Write an arrow function to check if a string contains a specific character and return a boolean value.
 
@@ -89,6 +94,7 @@ let checkString1 = () => {
 }
 console.log(checkString1())
 
+console.log("\n *************** Task 6 Ends Here ✅ *************** \n")
 
 // Activity 4: Function Parameters and Default Values
 
@@ -100,6 +106,7 @@ function prod (num1, num2 = 5) {
 console.log(prod(5))
 console.log(prod(5, 10))
 
+console.log("\n *************** Task 7 Ends Here ✅ *************** \n")
 
 // Task 8: Write a function that takes a person's name and age and returns a greeting message. Provide a default value for the age.
 
@@ -109,6 +116,7 @@ let greet = (Name, age = 20) => {
 console.log(greet("Adil", 24))
 console.log(greet("Suraj"))
 
+console.log("\n *************** Task 8 Ends Here ✅ *************** \n")
 
 // Activity 5: Higher-Order Functions
 
@@ -126,7 +134,7 @@ function Lorder(){
 
 Horder(Lorder, 5)
 
-
+console.log("\n *************** Task 9 Ends Here ✅ *************** \n")
 
 // Task 10: Write a higher-order function that takes two function and a value, applies the first function to the value, and then applies the second function to the result.
 
@@ -146,3 +154,5 @@ function fun2(x){
 }
 
 console.log(higherOrder(fun1, fun2, 4))
+
+console.log("\n *************** Task 10 Ends Here ✅ *************** \n")

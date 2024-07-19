@@ -17,6 +17,7 @@ if (a == 0){
     console.log("The number is negative")
 }
 
+console.log("\n *************** Task 1 Ends Here ✅ *************** \n")
 
 // Task 2: Write a program to check if a person is eligible to vote (age >= 18) and log the result to the console.
 
@@ -28,6 +29,7 @@ if (person_age >= 18) {
     console.log("The person is not eligible to vote");
 }
 
+console.log("\n *************** Task 2 Ends Here ✅ *************** \n")
 
 // Acivity 2: Nested If-Else Statements 
 
@@ -51,6 +53,7 @@ if ( a >= b){
     }
 }
 
+console.log("\n *************** Task 3 Ends Here ✅ *************** \n")
 
 // Acivity 3: Switch Case 
 
@@ -85,6 +88,7 @@ switch ( day ) {
         break;
 }
 
+console.log("\n *************** Task 4 Ends Here ✅ *************** \n")
 
 // Task 5: Write a program to that uses a switch case to assign a grade ('A', 'B', 'C', 'D', 'F') based on the score and log the result to the console.
 
@@ -111,6 +115,7 @@ switch (true) {
 
 console.log("The grade is", grade)
 
+console.log("\n *************** Task 5 Ends Here ✅ *************** \n")
 
 // Acivity 4: Conditional (Ternary) Operator. 
 
@@ -120,6 +125,7 @@ var a = 10;
 var result = (a % 2 === 0) ? "Even" : "Odd";
 console.log("The number is", result)
 
+console.log("\n *************** Task 6 Ends Here ✅ *************** \n")
 
 // Acivity 5: Combining Conditions. 
 
@@ -132,3 +138,5 @@ if ( (year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0) ) {
 } else {
     console.log("This is not leap year")
 }
+
+console.log("\n *************** Task 7 Ends Here ✅ *************** \n")

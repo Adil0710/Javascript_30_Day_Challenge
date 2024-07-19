@@ -11,6 +11,7 @@ var a = 10;
 var b = 20
 console.log(a + b);
 
+console.log("\n *************** Task 1 Ends Here ✅ *************** \n")
 
 // Task 2: Write a program to subtract two numbers and log the result to the console. 
 
@@ -18,6 +19,7 @@ var a = 20;
 var b = 10;
 console.log(a - b);
 
+console.log("\n *************** Task 2 Ends Here ✅ *************** \n")
 
 // Task 3: Write a program to multiply two numbers and log the result to the console. 
 
@@ -25,6 +27,7 @@ var a = 10;
 var b = 5;
 console.log(a * b);
 
+console.log("\n *************** Task 3 Ends Here ✅ *************** \n")
 
 // Task 4: Write a program to divide two numbers and log the result to the console. 
 
@@ -32,6 +35,7 @@ var a = 20;
 var b = 5;
 console.log(a / b);
 
+console.log("\n *************** Task 4 Ends Here ✅ *************** \n")
 
 // Task 5: Write a program to find the remainder when one number is divided by another and log the result to the console. 
 
@@ -39,6 +43,7 @@ var a = 3;
 var b = 10;
 console.log(a % b);
 
+console.log("\n *************** Task 5 Ends Here ✅ *************** \n")
 
 // Acivity 1: Assignment Operators
 
@@ -48,13 +53,15 @@ var a = 10;
 a += 1;
 console.log(a)
 
+console.log("\n *************** Task 6 Ends Here ✅ *************** \n")
 
-// Task 6: Use the `-=` operator to subtract a number to a variable and log the result to the console.
+// Task 7: Use the `-=` operator to subtract a number to a variable and log the result to the console.
 
 var a = 10;
 a -= 1;
 console.log(a)
 
+console.log("\n *************** Task 7 Ends Here ✅ *************** \n")
 
 // Activity 3: Comaparison Operator
 
@@ -64,6 +71,8 @@ var a = 10;
 var b = 20;
 console.log(a > b);
 console.log(a < b);
+
+console.log("\n *************** Task 8 Ends Here ✅ *************** \n")
 
 
 // Task 9: Write a program to compare two numbers using `>=` and `<=` and log the result to the console.
@@ -76,6 +85,7 @@ console.log(a <= b);
 console.log(a <= c);
 console.log(a >= c);
 
+console.log("\n *************** Task 9 Ends Here ✅ *************** \n")
 
 // Task 10: Write a program to compare two numbers using `==` and `==` and log the result to the console.
 
@@ -86,6 +96,7 @@ console.log(a == b);       // only check the value of the variable.
 console.log(a == c);        
 console.log(a === c);     // Checks strictly value and the datatype of the variable is comapred.
 
+console.log("\n *************** Task 10 Ends Here ✅ *************** \n")
 
 // Activity 4: Logical Operators
 
@@ -97,6 +108,7 @@ var c = 5;
 var result = a > b && a > c                     // AND operator check two conditions if any of the one condition from that both is false it returns false , both condition must be true.
 console.log("The result is ", result);
 
+console.log("\n *************** Task 11 Ends Here ✅ *************** \n")
 
 // Task 12: Write a program that uses `||` operator to combine two conditions and log the result to the console.
 
@@ -106,6 +118,7 @@ var c = 5;
 var result = a > b || a > c                     // OR operator check two conditions if any of the one condition from that both is true it returns true.
 console.log("The result is ", result);
 
+console.log("\n *************** Task 12 Ends Here ✅ *************** \n")
 
 // Task 13: Write a program that uses `!` operator to negate a condition and log the result to the console.
 
@@ -117,6 +130,7 @@ var result1 = !(a == c);            // It negates the condition if the condition
 console.log(result)
 console.log(result1)
 
+console.log("\n *************** Task 13 Ends Here ✅ *************** \n")
 
 // Task 14: Write a program that uses the ternary operator `?` to check if a number is positive or negative and log the result to the console.
 
@@ -126,3 +140,5 @@ var result = a > 0 ? "Positive" : "Negative";      // Ternary operator checks th
 var result1 = b > 0 ? "Positive" : "Negative";     // Ternary operator checks the condition if it is false it returns the first statement which is after the semicolon
 console.log(result)
 console.log(result1)
+
+console.log("\n *************** Task 14 Ends Here ✅ *************** \n")

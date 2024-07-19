@@ -10,6 +10,7 @@ for (let i = 1; i <= 10; i++) {
     console.log(i);
 }
 
+console.log("\n *************** Task 1 Ends Here ✅ *************** \n")
 
 // Task 2 : Write a program to print the multiplication table of 5 using for loop.
 
@@ -17,6 +18,7 @@ for (let i = 1; i <= 10; i++){
     console.log("5 *", i  ,"=", 5 * i);
 }
 
+console.log("\n *************** Task 2 Ends Here ✅ *************** \n")
 
 // Activity 2 : While Loop
 
@@ -30,6 +32,7 @@ while (i <= 10){
 }
 console.log(sum)
 
+console.log("\n *************** Task 3 Ends Here ✅ *************** \n")
 
 // Task 4: Write a program to print numbers from 10 to 1 using a while loop
 
@@ -39,6 +42,7 @@ while (a >= 1){
     a--;
 }
 
+console.log("\n *************** Task 4 Ends Here ✅ *************** \n")
 
 // Activity 3: Do...While Loop
 
@@ -51,6 +55,8 @@ do{
     c++;
 } while( c <= 5)
 
+
+console.log("\n *************** Task 5 Ends Here ✅ *************** \n")    
 
 // Task 6: Write a program to calculate the factorial of a number using do...while loop.
 
@@ -65,6 +71,7 @@ do{
 
 console.log(fact)
 
+console.log("\n *************** Task 6 Ends Here ✅ *************** \n")
 
 // Activity 4: Nested Loops
 
@@ -81,6 +88,7 @@ for (let z = 1; z <= x; z++){
     console.log(pattern)
 }
 
+console.log("\n *************** Task 7 Ends Here ✅ *************** \n")
 
 // Activity 5: Loop Control Statements
 
@@ -91,6 +99,7 @@ for (let p = 1; p <= 10; p++){
     console.log(p)
 }
 
+console.log("\n *************** Task 8 Ends Here ✅ *************** \n")
 
 // Task 9: Write a program to print numbers from 1 to 10, but stop the loop when the number is 7 using the break statement.
 
@@ -98,3 +107,5 @@ for (q = 1; q <= 10; q++){
     if (q === 7) { break; }
     console.log(q)
 }
+
+console.log("\n *************** Task 9 Ends Here ✅ *************** \n")
