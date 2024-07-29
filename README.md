@@ -27,6 +27,9 @@ Each day, I'll be tackling a new JavaScript challenge or project to improve my c
 | 04   | Loops.                  | [Day 4 here](Day_04) |
 | 05   | Functions.              | [Day 5 here](Day_05) |
 | 06   | Arrays.                 | [Day 6 here](Day_06) |
+| 07   | Objects.                | [Day 7 here](Day_07) |
+| 08   | ES6+ Features.          | [Day 8 here](Day_08) |
+| 09   | DOM MANIPULATION.       | [Day 9 here](Day_09) |
 
 
 
